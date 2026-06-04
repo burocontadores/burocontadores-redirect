@@ -1,0 +1,9 @@
+{
+    "routes": [
+          {
+                  "route": "/*",
+                  "redirect": "https://buro.com.py",
+                  "statusCode": 301
+          }
+    ]
+}
